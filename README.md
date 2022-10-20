@@ -1,4 +1,6 @@
-# Lab 2
+# HornedBeasts
+
+## Lab02 Updates
 
 Number and name of feature:
 
@@ -13,3 +15,17 @@ Start time: 8 PM
 Finish time: 9:30 PM
 
 Actual time needed to complete: 90 minutes
+
+## Lab03 Updates
+
+Number and name of feature:
+
+  1. Display a Modal
+
+Estimate of time needed to complete: 4 hours
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
