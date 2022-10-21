@@ -21,7 +21,7 @@ class Main extends React.Component {
 
   handleSelect = (e) => {
     if (e.target.value !== 'all') {
-      let filterHorns = this.props.data.filter(value => value.horns == e.target.value)
+      let filterHorns = this.props.data.filter(value => value.horns === parseInt(e.target.value))
       this.setState({
         thisBeast: filterHorns
       })
