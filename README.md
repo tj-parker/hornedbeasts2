@@ -29,3 +29,17 @@ Start time: 8 PM
 Finish time: 10:45 PM
 
 Actual time needed to complete: 2 hours 45 minutes
+
+## Lab04 Updates
+
+Number and name of feature:
+
+  1. Filter by Numbers of Horns
+
+Estimate of time needed to complete: 4 hours
+
+Start time: 8 PM
+
+Finish time: 10:30 PM
+
+Actual time needed to complete: 2 hours 30 minutes
